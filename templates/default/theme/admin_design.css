@@ -34,7 +34,8 @@ body {
 
 /* -- Entete de la page =============================================== */
 header#header-admin {
-	background: #404040;
+	/* background: #404040; */
+	background: yellow;
 }
 
 div#site-name-container {
