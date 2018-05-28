@@ -515,3 +515,10 @@ body 					{ color: #47B4EB; }
 	color: #ffffff;
 	font-size: 16px;
 }
+
+/* Chaudron Theme */
+
+div[itemprop="text"] {
+	padding: 0 0 0 10px;
+	font-weight: bold;
+}
