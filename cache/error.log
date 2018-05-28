@@ -1,0 +1,8 @@
+2018-05-22 23:19:17
+256
+template EasyCss/AdminEditController.tpl<br />Unknown statement<br />line 1 offset 40 near "...&lt;div&gt;background-color : Wrong arguments : # faf6ee&lt;/div&gt;..."
+[0] /kernel/framework/mvc/response/AbstractResponse.class.php:60 - FileTemplate->render()<br />[1] /kernel/framework/mvc/dispatcher/UrlControllerMapper.class.php:88 - AbstractResponse->send()<br />[2] /kernel/framework/mvc/dispatcher/UrlControllerMapper.class.php:59 - UrlControllerMapper->do_call()<br />[3] /kernel/framework/mvc/dispatcher/Dispatcher.class.php:67 - UrlControllerMapper->call()<br />[4] /kernel/framework/mvc/dispatcher/DispatchManager.class.php:43 - Dispatcher->dispatch()<br />[5] /EasyCss/index.php:38 - DispatchManager::dispatch(array)<br />[URL] /chaudron/EasyCss/?url=/edit/Multi_Theme/design/
+2018-05-22 23:19:22
+256
+template EasyCss/AdminEditController.tpl<br />Unknown statement<br />line 1 offset 40 near "...&lt;div&gt;background-color : Wrong arguments : # faf6ee&lt;/div&gt;..."
+[0] /kernel/framework/mvc/response/AbstractResponse.class.php:60 - FileTemplate->render()<br />[1] /kernel/framework/mvc/dispatcher/UrlControllerMapper.class.php:88 - AbstractResponse->send()<br />[2] /kernel/framework/mvc/dispatcher/UrlControllerMapper.class.php:59 - UrlControllerMapper->do_call()<br />[3] /kernel/framework/mvc/dispatcher/Dispatcher.class.php:67 - UrlControllerMapper->call()<br />[4] /kernel/framework/mvc/dispatcher/DispatchManager.class.php:43 - Dispatcher->dispatch()<br />[5] /EasyCss/index.php:38 - DispatchManager::dispatch(array)<br />[URL] /chaudron/EasyCss/?url=/edit/Multi_Theme/design/

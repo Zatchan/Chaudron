@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/index.php</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/articles/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/articles/?url=/1-categorie-de-test/</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/calendar/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/faq/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/faq/?url=/1-phpboost/</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/faq/?url=/2-dictionnaire/</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/gallery/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/gallery/gallery.php?cat=1</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/web/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/web/?url=/1-categorie-de-test/</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/media/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/media/media.php?cat=1</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/news/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/news/?url=/1-test/</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/newsletter/</loc>
+		
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/newsletter/?url=/archives/1-actualites-du-site-les-recettes-du-chaudron/</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/pages/explorer.php</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+
+
+		<url>
+		<loc>http://tronyx-world.tech/chaudron/wiki/wiki.php</loc>
+		
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+
+</urlset>

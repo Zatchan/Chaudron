@@ -1,0 +1,11 @@
+.themes-switcher {
+	padding: 5px 0;
+}
+
+.themes-switcher select {
+	margin: 0 auto 5px auto;
+}
+
+.themes-switcher-vertical select {
+	display: block;
+}

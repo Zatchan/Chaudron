@@ -1,0 +1,11 @@
+<?php $_result='<div class="easycss-block"><h6>input[type=text],
+input[type=email],
+input[type=url],
+input[type=number],
+input[type=color],
+input[type=tel],
+input[type=search],
+input[type=password],
+input[type=file],
+textarea,
+select</h6>'; ?>
