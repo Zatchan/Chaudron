@@ -1,2 +1,0 @@
-<?php $_result='<div class="easycss-block"><h6>section#module-calendar, section#module-contact,section#module-download, section#module-faq, section#module-gallery, section#module-guestbook, section#module-media , section#module-search, section#module-shoutbox, section#module-user-contrib, section#module-user-error, section#module-user-list, section#module-user-moderation, section#module-user-profile, section#module-user-pm, section#module-user-upload, section#module-user-upload-move,
-section#module-web, section#module-wiki</h6>'; ?>

@@ -1,1 +1,0 @@
-<?php $_result='			<a href="' . $_data->get('LOC') . '">' . $_data->get('TEXT') . '</a>'; ?>
