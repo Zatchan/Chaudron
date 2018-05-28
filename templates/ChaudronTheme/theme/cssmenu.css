@@ -613,7 +613,7 @@ footer .cssmenu-static > ul > li > .cssmenu-title 			{ color: #DDDDDD; }
 #top-header .cssmenu > ul > li:hover > .cssmenu-title 			{ color: #FFFFFF; }
 header .cssmenu li:hover > .cssmenu-title 					{ color: #FFFFFF; }
 .cssmenu.cssmenu-vertical li:hover > .cssmenu-title 		{ color: #666666; }
-#main .cssmenu li:hover > .cssmenu-title 					{ color: #666666; }
+#main .cssmenu li:hover > .cssmenu-title 					{ color: #FFAB00; }
 
 @media (min-width: 769px) {
 	header .cssmenu-horizontal > ul > li:hover				{ background-color: #333333; }
@@ -622,7 +622,10 @@ header .cssmenu li:hover > .cssmenu-title 					{ color: #FFFFFF; }
 
 /* --- Niveau 2 --- */
 .cssmenu ul ul li .cssmenu-title 							{ color: #DDDDDD; }
-#main .cssmenu ul ul li .cssmenu-title 						{ color: #333333; }
+#main .cssmenu ul ul li .cssmenu-title 						{ 
+	color: #D9D9D9;
+	font-weight: bold; 
+}
 .cssmenu.cssmenu-vertical ul ul li .cssmenu-title  			{ color: #333333; }
 .cssmenu-actionslinks li ul li .cssmenu-title    			{ color: #666666; }
 aside .cssmenu-static li ul li .cssmenu-title, 
@@ -630,7 +633,7 @@ aside .cssmenu-static li ul li .cssmenu-title,
 
 .cssmenu ul ul li:hover > .cssmenu-title					{ color: #333333; }
 header .cssmenu ul ul li:hover > .cssmenu-title 			{ color: #FFFFFF; }
-#main .cssmenu ul ul li:hover > .cssmenu-title 				{ color: #555555; }
+#main .cssmenu ul ul li:hover > .cssmenu-title 				{ color: #FFAB00; }
 .cssmenu.cssmenu-vertical ul ul li:hover > .cssmenu-title 	{ color: #555555; }
 .cssmenu-actionslinks li:hover > .cssmenu-title 			{ color: #FFAB00; }
 footer .cssmenu-static ul ul li:hover > .cssmenu-title 		{ color: #FFFFFF; }
@@ -755,7 +758,7 @@ header .cssmenu ul ul li .cssmenu-title							{ background-color: #333333;	}
 		margin-bottom: 1px;
 		background-image: none;
 		border-width: 1px 1px 0 1px;
-		border-color: #AAAAAA;
+		/* border-color: #AAAAAA; */
 	}
 
 }
@@ -802,10 +805,10 @@ header .cssmenu ul ul li .cssmenu-title							{ background-color: #333333;	}
 	right: 0;
 	top: 21px;
 	padding: 5px 0;
-	width: 170px;
-	background-color: #FFFFFF;
+	width: 180px;
+	background-color: #333333;
 	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-	border: 1px solid #AAAAAA;
+	border: 1px solid #366493;
 	font-size: 11px;
 }
 
