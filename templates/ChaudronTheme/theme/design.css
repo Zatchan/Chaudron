@@ -57,7 +57,7 @@ body {
 
 body 					{ background-color: #404040; }
 #header, #global 		{ background-color: #183c51; }
-#sub-header 			{ background-color: #366493; }
+#sub-header 			{ background-color: #404040; }
 #footer 				{ background-color: #81A4C8; }
 
 #top-header, #global 	{ border-color: #404040; }
